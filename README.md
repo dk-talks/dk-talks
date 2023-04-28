@@ -1,4 +1,4 @@
-![logo](https://github.com/dk-talks/dk-talks/blob/main/github%20banner.png)
+<!-- ![logo](https://github.com/dk-talks/dk-talks/blob/main/github%20banner.png) -->
 <h1 align="center">Hi 👋, I'm Dinesh Sharma</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
