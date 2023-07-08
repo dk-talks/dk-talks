@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dk-talks&label=Profile%20views&color=0e75b6&style=flat" alt="dk-talks" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, building iOS Projects.**
+- 🌱 I’m currently learning **Data Structures & Algorithms, building iOS Apps.**
 
 - 📫 How to reach me **dktech8502@gmail.com**
 
